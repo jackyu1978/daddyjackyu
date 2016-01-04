@@ -1,4 +1,4 @@
-baseurl = "http://jackyu1978.github.io/"
+baseurl = "http://www.daddyjackyu.com/"
 title = "杰克的烦恼"
 languageCode = "zh-CN"
 # disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
@@ -7,7 +7,7 @@ theme = "hyde-x"
 paginate = 10
 
 [author]
-    name = "杰克奶爸"
+    name = "奶爸杰克"
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -46,7 +46,7 @@ paginate = 10
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
-    # home = "主页"
+    home = "主页"
 
     # Metadata used to drive integrations.
     googleAuthorship = "Your Google+ profile ID"
